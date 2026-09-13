@@ -58,6 +58,10 @@ flowchart LR
 
 ---
 
+## Collaboration & CI
+
+See [COLLABORATION.md](../COLLABORATION.md) for invites, permissions, PRs, branch protection, and Actions.
+
 ## Support
 
 Questions about access, `.env`, or deploy: ask the repo maintainer / org admin (`@harshalDharpure`).
